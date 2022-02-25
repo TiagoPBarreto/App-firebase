@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46418649493",
+    "firebase_url": "https://firabese-app-b3284-default-rtdb.firebaseio.com",
+    "project_id": "firabese-app-b3284",
+    "storage_bucket": "firabese-app-b3284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46418649493:android:e8050e46d9cc2f460dd69c",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.appfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46418649493-362sf2nteambk8chnqpssj2pth90ueed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.appfirebase",
+            "certificate_hash": "889a16e0bb4d4addb279120d908b4b0ab878e3a5"
+          }
+        },
+        {
+          "client_id": "46418649493-rqos6b7tvh4o9q6urj61bb10a2nl0rjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPfE1BY2WJtkWf_oLHv9PffGhQJhLXw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46418649493-rqos6b7tvh4o9q6urj61bb10a2nl0rjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
